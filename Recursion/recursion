@@ -1,1 +1,26 @@
+Recursion is defined as a process that calls itself directly or indirectly and the corresponding function is called a recursive function.
 
+types:-
+1. Direct recursion:
+When a function is called within itself directly it is called direct recursion. This can be further categorized into four types: 
+->Tail recursion,  
+->Head recursion,  
+->Tree recursion and 
+->Nested recursion.
+
+
+2. Indirect recursion:
+Indirect recursion occurs when a function calls another function that eventually calls the original function and  forms a cycle.
+
+Properties of Recursion:
+Recursion has some important properties. Some of these are mentioned below:
+->The primary property of recursion is the ability to solve a problem by breaking it down into smaller sub-problems, each of which can be solved similarly.
+->A recursive function must have a base case or stopping criteria to avoid infinite recursion.
+->Recursion involves calling the same function within itself, which leads to a call stack.
+->Recursive functions may be less efficient than iterative solutions regarding memory and performance.
+
+Advantages of Recursion:
+->Recursion can simplify complex problems by breaking them down into smaller, more manageable pieces.
+->Recursive code can be more readable and easier to understand than iterative code.
+->Recursion is essential for some algorithms and data structures.
+->Also with recursion, we can reduce the length of code and become more readable and understandable to the user/ programmer.
