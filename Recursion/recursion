@@ -6,7 +6,7 @@ When a function is called within itself directly it is called direct recursion. 
 ->Tail recursion,  
 ->Head recursion,  
 ->Tree recursion and 
-->Nested recursion.
+->Nested recursion
 
 
 2. Indirect recursion:
